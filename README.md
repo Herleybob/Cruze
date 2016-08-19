@@ -55,7 +55,7 @@ Licensed Under a Creative Commons Attribution-ShareAlike 4.0 International Licen
 
 ## Share-Alike
 
-* You can transform and build off this work however you please, but any distribution must follow the same license as this work (it must be distributed freely, and use a Creative Commons Attribution-ShareAlike 4.0 International License. The distributed work must also follow the same open source style this work has. You cannot distribute encrypted forms of this work, any derivatives/adaptations of this work, or any other transformations of this work under any circumstances.
+* You can transform and build off this work however you please, but any distribution must follow the same license as this work (it must be distributed freely, and use a Creative Commons Attribution-ShareAlike 4.0 International License). The distributed work must also follow the same open source style this work has. You cannot distribute encrypted forms of this work, any derivatives/adaptations of this work, or any other transformations of this work under any circumstances.
 
 
 
