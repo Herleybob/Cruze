@@ -34,9 +34,15 @@ Assuming default installation...
 
 Check out the wiki (https://github.com/Snipesy/Cruze/wiki) for some in depth explanations.
 
-# Legal
+# Free License
 
-See https://github.com/Snipesy/Cruze/blob/master/LICENSE.md
+GNU GPL3 License
+  See https://github.com/Snipesy/Cruze/blob/master/LICENSE.md
+
+# Commercial License
+
+A commercial licesnse is suitable if you cannot abide by the terms of the GPL3 license. For further information email proprietary
+  
 
 
 # Donations
