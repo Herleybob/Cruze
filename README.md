@@ -1,8 +1,6 @@
 # Cruze
 Unlocking the Cruze, one byte at a time.
 
-# Effective immediately this project is now licensed under a GNU General Public License
-
 # Background
 
 The project was started by Justin Hoogestraat 'Snipesy' in January 2016. It originally started as a simply post on the CruzeTalk forums to explore the inner workings of the ECM. It has since evolved to be a heavilly featured platform for tuning the Cruze.
