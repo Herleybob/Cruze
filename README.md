@@ -40,11 +40,4 @@ GNU GPL3 License
 # Commercial License
 
 A commercial licesnse is suitable if you cannot abide by the terms of the GPL3 license. For further information email contact@snipesy.com
-  
-
-
-# Donations
-
-If you wish to show your appreciation for the cax,
-
-<a href='https://pledgie.com/campaigns/31855'><img alt='Click here to lend your support to: E47 Cax by Justin Hoogestraat and make a donation at pledgie.com !' src='https://pledgie.com/campaigns/31855.png?skin_name=chrome' border='0' ></a>
+ 
